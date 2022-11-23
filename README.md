@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/9831d6a4-5477-4335-b230-5057f0986b62.svg)](https://wakatime.com/@9831d6a4-5477-4335-b230-5057f0986b62)
+
+![A2113S's GitHub stats](https://github-readme-stats.vercel.app/api?username=A2113S&show_icons=true&theme=transparent&count_private=true)
+
 <!--
 **A2113S/A2113S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
